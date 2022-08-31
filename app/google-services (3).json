@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258062438597",
+    "project_id": "eatsy-85dd5",
+    "storage_bucket": "eatsy-85dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258062438597:android:a9524e1ba17da5181060ac",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258062438597-1sqmbeag3c507vhe323r294j0kdimjp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgzA5dJb2UnEoeYa4gAIWTFT2cyNx44hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258062438597-1sqmbeag3c507vhe323r294j0kdimjp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

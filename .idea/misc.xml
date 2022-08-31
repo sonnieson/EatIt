@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1675" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/drawable-v24/ic_splash.xml" value="0.1675" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/drawable/button_bg.xml" value="0.1675" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/drawable/food.xml" value="0.188" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/drawable/ic_add_circle.xml" value="0.176" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1675" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/drawable/ic_remove_circle.xml" value="0.176" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/layout/activity_place_your_order.xml" value="0.1" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/layout/activity_restaurant_menu.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/layout/activity_success_order.xml" value="0.1" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/layout/menu_list_row.xml" value="0.1" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/layout/placeyourorder_list_row.xml" value="0.1" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/layout/recycler_restaurant__list_row.xml" value="0.1" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/menu/restaurent.xml" value="0.1" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.169" />
+        <entry key="..\:/Users/ADF/AndroidStudioProjects/SplashScreen2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.169" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
